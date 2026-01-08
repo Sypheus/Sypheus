@@ -3,10 +3,7 @@
   <!-- คลื่นด้านบน -->
   <img src="./sea-top.svg" alt="top wave" style="position: absolute; top: 0; left: 0; width: 100%; height: auto;" />
 
-  <!-- คลื่นด้านล่าง -->
-  <img src="./sea-bottom.svg" alt="bottom wave" style="position: absolute; bottom: 0; left: 0; width: 100%; height: auto;" />
-
-  <!-- ข้อความตรงกลาง -->
+<!-- ข้อความตรงกลาง -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <h1>Sypheus</h1>
     <p>Back-end | Systems & Logic</p>
@@ -14,3 +11,7 @@
   </div>
 
 </div>
+
+  <!-- คลื่นด้านล่าง -->
+  <img src="./sea-bottom.svg" alt="bottom wave" style="position: absolute; bottom: 0; left: 0; width: 100%; height: auto;" />
+
