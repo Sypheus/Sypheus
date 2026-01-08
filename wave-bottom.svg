@@ -1,0 +1,21 @@
+<svg viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <!-- Inner (dark, near content) -->
+  <path fill="#1a1a1a">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+      M0,50 C200,20 400,80 600,50 800,20 1000,80 1200,50 L1200,160 L0,160 Z;
+      M0,50 C200,80 400,20 600,50 800,80 1000,20 1200,50 L1200,160 L0,160 Z;
+      M0,50 C200,20 400,80 600,50 800,20 1000,80 1200,50 L1200,160 L0,160 Z
+      " />
+  </path>
+
+  <!-- Outer (gray) -->
+  <path fill="#3f3f3f">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite"
+      values="
+      M0,90 C150,50 300,130 450,90 600,50 750,130 900,90 1050,50 1200,90 L1200,160 L0,160 Z;
+      M0,90 C150,130 300,50 450,90 600,130 750,50 900,90 1050,130 1200,90 L1200,160 L0,160 Z;
+      M0,90 C150,50 300,130 450,90 600,50 750,130 900,90 1050,50 1200,90 L1200,160 L0,160 Z
+      " />
+  </path>
+</svg>
