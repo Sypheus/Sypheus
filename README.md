@@ -4,11 +4,12 @@
   <img src="./sea-top.svg" alt="top wave" style="position: absolute; top: 0; left: 0; width: 100%; height: auto;" />
 
 <p align="center">
-  Hi, I'm Sypheus. I currently work on Back-end development.  
+  Hi, I'm Sypheus. I work on Back-end development.
 </p>
 
   <!-- คลื่นด้านล่าง -->
   <img src="./sea-bottom.svg" alt="bottom wave" style="position: absolute; bottom: 0; left: 0; width: 100%; height: auto;" />
+
 
 
 
