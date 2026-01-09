@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B65EC&height=180&section=header&text=Sypheus&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=180&section=header&text=Sypheus&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <p align="center">
 Hi, I'm Sypheus. I work on Back-end development.
@@ -13,6 +13,4 @@ Hi, I'm Sypheus. I work on Back-end development.
 
 <br>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B65EC&height=120&section=footer"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
