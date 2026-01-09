@@ -18,3 +18,4 @@ Hi, I'm Sypheus. I work on Back-end development.
 
 <!-- Footer Wave -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2B65EC&height=120&section=footer"/>
+
