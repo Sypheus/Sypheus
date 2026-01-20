@@ -10,7 +10,9 @@ Hi, I'm Sypheus. I work on Back-end development.
   <img width="49%" height="195px"
 src="https://github-readme-stats.vercel.app/api?username=Sypheus&show_icons=true&count_private=true&hide_border=true&title_color=FFFAFA&icon_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117"
 />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?sypheus=<username>&layout=compact&hide_border=true&title_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117" />
+  <img width="41%" height="195px"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sypheus&layout=compact&hide_border=true&title_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117"
+/>
 </div>
 
 <br>
