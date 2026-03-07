@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=180&section=header&text=Sypheus&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <p align="center">
-Hi, I'm Sypheus. I work on Back-end development.
+Hi, I'm Sypheus. I focus on back-end development.
+I might share some projects and experiments here in the future.
 </p>
 
 <br>
